@@ -1,0 +1,4 @@
+PRINT 
+PRINT Hello, this is the worst language!
+PRINT It can only print lines.
+PRINT No variables, no logic, no hope.
